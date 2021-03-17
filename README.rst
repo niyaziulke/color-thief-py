@@ -8,7 +8,7 @@ Installation
 
 ::
 
-    $ pip install git+https://github.com/niyaziulke/color-thief-py
+    $ pip install git+https://github.com/niyaziulke/color-thief-py@master
 
 
 
